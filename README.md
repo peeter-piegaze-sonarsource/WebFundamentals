@@ -5,6 +5,7 @@
 Welcome to the new Web**Fundamentals**! An effort to showcase best practices and tools for modern Web Development.
 
 
+
 ### What's changed?
 
 * We're now using the [DevSite](https://developers.google.com/) infrastructure
